@@ -1,0 +1,1 @@
+# prac_2_tipologia_i_cicle_vida_dades
