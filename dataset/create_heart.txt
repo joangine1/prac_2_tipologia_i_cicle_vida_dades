@@ -1,1 +1,0 @@
-Carpeta amb el joc de dades original i el joc de dades analitzat (heart.csv i clean_heart.csv, respectivament).
